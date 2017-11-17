@@ -1,5 +1,5 @@
-title: JKAN
-greeting: Welcome to JKAN
+title: ODM JKAN
+greeting: Welcome to Open Data Manchester's JKAN datastore
 description: A lightweight, backend-free open data portal, powered by Jekyll.
 baseurl: /jkan
 logo: /img/jkan.png
